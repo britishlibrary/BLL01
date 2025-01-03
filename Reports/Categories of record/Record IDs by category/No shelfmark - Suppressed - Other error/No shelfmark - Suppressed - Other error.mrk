@@ -1,0 +1,25 @@
+=LDR  01018 as a22003013a 4500
+=001  015628804
+=003  Uk
+=005  20200417184249.0
+=008  100817c\\\\9999\\\|\|p\\\\\\\\\\\a0eng\\
+=245  \0$aCommunist Party of Great Britain archive.
+=260  \\$aWakefield :$bMicroform Academic Publishers.
+=336  \\$atext$2rdacontent
+=337  \\$aunmediated$2rdamedia
+=338  \\$avolume$2rdacarrier
+=852  41$aBritish Library$bHMNTS
+=985  \\$aUpgraded by BSS-generated file for WR1910-0531
+=CAT  \\$a10902$b40$c20100817$lBLL01$h1412
+=CAT  \\$a11279$b40$c20110705$lBLL01$h1151
+=CAT  \\$a11279$b40$c20110705$lBLL01$h1152
+=CAT  \\$aBATCH-UPD$b40$c20131021$lBLL01$h1141
+=CAT  \\$a3072$b40$c20150319$lBLL01$h1155
+=CAT  \\$aW1711-1225$c20171203$lBLL01$h1039
+=CAT  \\$aW1910-0531$b00$c20200417$lBLL01$h1842
+=FMT  \\$a  SE
+=LAS  \\$aW1910-0531$b00$c20200417$lBLL01$h1842
+=STA  \\$aSUPPRESSED$bunable to determine reason for suppression
+=STA  \\$bDatabase
+=TCO  \\$aZZZ$c008
+
