@@ -1,0 +1,46 @@
+=LDR  02601cam a2200553   4500
+=001  000527060
+=003  Uk
+=005  20230824151953.0
+=008  790922s1754\\\\enk\\\\\\\\\\\000|0|eng\c
+=FMT  \\$a  BK
+=019  x\$a0471680087
+=035  \\$a(CU-RivES)T17974
+=040  \\$aUk-ES$cUk-ES$dCStRLIN$dCU-RivES$dUk-ES$erda
+=100  1\$aBuller, James,$d1704 or 1705-
+=245  12$aA sermon preach'd before the prisoners under sentence of death,$bin Newgate, Bristol, on Tuesday the 24th of September, and at their earnest desire, the Friday following, being the day of their execution.$cBy the Rev. James Buller, M.A.
+=264  \1$aBristol :$bprinted by S. Farley, in Castle-Green,$c1754.
+=300  \\$a19, [1] p. ;$c21 cm (4⁰)
+=336  \\$atext$2rdacontent
+=337  \\$aunmediated$2rdamedia
+=338  \\$avolume$2rdacarrier
+=340  \\$m4to$2rdabf
+=500  \\$aSignatures: A⁴ B⁶.
+=533  \\$aAlso avalable on microfilm.$bWoodbridge, CT$cResearch Publications, Inc.,$d1986.$e1 reel ; 35mm.$f(The Eighteenth Century ; reel 3222, no. 01).
+=510  4\$aESTC,$cT17974
+=655  \7$aSermons.$2rbgenr
+=630  00$aBible.$pHebrews, IX, 27$vSermons$vEarly works to 1800.
+=700  1\$aFarley, Samuel,$dactive 1754-1774,$eprinter.
+=752  \\$aGreat Britain$bEngland$dBristol.
+=856  41$uhttp://books.google.com/books?vid=BL:A0021680539$yGoogle_Books
+=856  40$uhttp://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=T017974&tiPG=1&dd=0&dc=flc&docNum=CW119117573&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRF |$yEighteenth Century Collections Online. Gale Group$ahttp://www.galegroup.com$mGale technical support (800) 877-4253
+=852  41$aBritish Library$bHMNTS$j4473.aaa.45.(10)
+=985  \\$aUpgraded by BSS-generated file for WR1910-0531
+=985  \\$aRecord amended for WR# 13/168$d20131210$iUk-ES
+=985  \\$aSubject headings created by HTC$dMay 2008$inCU-RivES
+=CAT  \\$aCONV$b00$c20040502$lBLL01$h0900
+=CAT  \\$aglobal_upd$b40$c20060416$lBLL01$h1430
+=CAT  \\$aBLSS-CORR$b00$c20080625$lBLL01$h1719
+=CAT  \\$aBATCH$b00$c20091126$lBLL01$h2206
+=CAT  \\$aBLSS-CORR$b00$c20111222$lBLL01$h1525
+=CAT  \\$aWR14_057$b00$c20170504$lBLL01$h1736
+=CAT  \\$aW1804-1393$c20180601$lBLL01$h1645
+=CAT  \\$a1805-0738$c20180914$lBLL01$h2306
+=CAT  \\$a1805-0738$b00$c20180914$lBLL01$h2343
+=CAT  \\$aW1910-0531$b00$c20200313$lBLL01$h1803
+=CAT  \\$a2225$b40$c20230824$lBLL01$h1519
+=FIN  \\$aY
+=LEO  \\$aMP1.0000556196
+=SRC  \\$aBLS01$bbibmp1.200404.2.aa
+=LAS  \\$a2225$b40$c20230824$lBLL01$h1519
+
