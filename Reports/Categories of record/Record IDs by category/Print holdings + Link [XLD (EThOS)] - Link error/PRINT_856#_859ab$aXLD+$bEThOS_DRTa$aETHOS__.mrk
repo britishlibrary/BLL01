@@ -1,0 +1,35 @@
+=LDR  02325 am a22004217a 4500
+=001  015982270
+=003  Uk
+=005  20120127121838.0
+=006  m\\\\\\\\d\\\\\\\\
+=007  cr\|||||||||||
+=008  111101s2011\\\\xxk\\\\\obm\\\000\0\eng\\
+=040  \\$aUk$beng$cUk$dUk
+=082  04$a510$223
+=100  1\$aWright, Benjamin Thomas.
+=245  10$aGraphs associated with the sporadic simple groups Fi₂₄ and BM$h[electronic resource].
+=260  \\$bUniversity of Manchester,$c2011.
+=300  \\$a1 online resource (161 p.)
+=336  \\$atext$2rdacontent
+=337  \\$acomputer$2rdamedia
+=338  \\$aonline resource$2rdacarrier
+=502  \\$aThesis (Ph.D.)--University of Manchester, 2011.
+=504  \\$aIncludes bibliographical references.
+=520  3\$aOur aim is to calculate some graphs associated with two of the larger sporadicsimple groups, Fi₂₄ and the Baby Monster. Firstly we calculate the point line collinearity graph for a maximal 2-local geometry of Fi₂₄. If T is such a geometry, then the point line collinearity graph G will be the graph whose vertices are the points in T, with any two vertices joined by an edge if and only if they are incident with a common line. We found that the graph has diameter 5 and we give its collapsed adjacency matrix. We also calculate part of the commuting involution graph, C, for the class 2C of the Baby Monster, whose vertex set is the conjugacy class 2C, with any two elements joined by an edge if and only if they commute. We have managed to place all vertices inside C whose product with a fixed vertex t does not have 2 power order, with all evidence pointing towards C having diameter 3.
+=710  2\$aUniversity of Manchester.
+=852  4\$aBritish Library$bDSC$cDRT$j538465
+=856  4\$ahttps://www.escholar.manchester.ac.uk/jrul/item/?pid=uk-ac-man-scw:119844
+=859  \\$aXLD$bEThOS
+=CAT  \\$aBATCH-ETHO$b00$c20111202$lBLL01$h0038
+=CAT  \\$aBATCH$b00$c20111202$lBLL01$h0048
+=CAT  \\$a6537$b40$c20120127$lBLL01$h1218
+=CAT  \\$aWR13.117$c20130727$lBLL01$h2018
+=CAT  \\$aWR13.144/5$c20140418$lBLL01$h1035
+=CAT  \\$aBATCH-ETHO$b00$c20140502$lBLL01$h0142
+=DRT  \\$aETHOS
+=FIN  \\$aY$d20111202
+=FMT  \\$a  BK
+=LAS  \\$aBATCH-ETHO$b00$c20140502$lBLL01$h0142
+=SRC  \\$aEThOS$bethos.mds.20111201.mrc
+
