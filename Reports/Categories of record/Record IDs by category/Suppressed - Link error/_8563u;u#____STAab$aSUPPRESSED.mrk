@@ -1,0 +1,52 @@
+=LDR  03571 am a22006255a 4500
+=001  016452961
+=003  Uk
+=005  20130716151517.0
+=008  130410s2012\\\\ja\\\\\\\b\\\f100\0\jpn\c
+=FMT  \\$a  BK
+=010  \\$a2012535758
+=035  \\$a(OCoLC)810274402$z(OCoLC)811644079
+=040  \\$aPIT$beng$cPIT$dDLC$dTRCLS$dOCLCO$dCMA$dOCLCO$dOCLCQ$erda
+=041  1\$ajpn$feng$heng
+=042  \\$aukblderived
+=042  \\$apcc
+=043  \\$aa------$aa-ja---
+=050  00$aBQ264$b.K56 2012
+=084  \\$a182$2njb/9
+=245  00$6880-01$aKindai to Bukkyō /$cSueki Fumihiko hen = Modernity and Buddhism / edited by Sueki Fumihiko.
+=246  31$aModernity and Buddhism
+=250  \\$aFirst edition.
+=264  \1$6880-02$aKyōto-shi :$bKokusai Nihon Bunka Kenkyū Sentā,$c2012.
+=300  \\$a157 pages ;$c26 cm.
+=336  \\$atext$btxt$2rdacontent
+=337  \\$aunmediated$bn$2rdamedia
+=338  \\$avolume$bnc$2rdacarrier
+=490  1\$6880-03$aKokusai shinpojūmu = International symposium,$x0915-2822 ;$v41
+=546  \\$aArticles in Japanese; table of contents also in English.
+=500  \\$aReport on the 41st conference held at Kokusai Nihon Bunka Kenkyū Sentā, October 13-15, 2011.
+=504  \\$aIncludes bibliographical references.
+=505  0\$6880-04$aFormation of modern Buddhism -- Modernization of Japanese Buddhism -- Modern Buddhism in Asia.
+=650  \0$aBuddhism$zAsia$xHistory$y19th century$vCongresses.
+=650  \0$aBuddhism$zAsia$xHistory$y20th century$vCongresses.
+=650  \0$aBuddhism$zJapan$xHistory$y1868-$vCongresses.
+=650  07$6880-05$aBukkyō-Rekishi.$2jlabsh/4
+=700  1\$6880-06$aSueki, Fumihiko.
+=710  2\$6880-07$aKokusai Nihon Bunka Kenkyū Sentā.
+=830  \0$6880-08$aKokusai shinpojūmu$v41.$x0915-2822.
+=856  4\$uhttp://www.bk1.jp/trcno/12105042/?partnerid=oclc&siteid=oclc$zJapanese record available for display
+=856  41$3Table of contents$uhttp://catdir.loc.gov/catdir/toc/fy13pdf03/2012535758.html
+=880  00$6245-01$a近代と仏教 /$c末木文美士編 = Modernity and Buddhism / edited by Sueki Fumihiko.
+=880  1\$6246-00$iAt head of title:$a第41回国際研究会集会 =$bthe 41st international research symposium
+=880  \1$6264-02$a京都市 :$b国際日本文化研究センター,$c2012.
+=880  1\$6490-03$a国際シンポジウム = International symposium,$x0915-2822 ;$v41
+=880  0\$6505-04$a近代仏教の形成 -- ビュルヌフと仏教研究の誕生 / ドナルド・S. ロペス ; 高橋原 -- モダニティの流れをたどる / トマス・A. ツイード ; 島津恵正 -- 他者として映された日中仏教 / 陳継東 -- 日本仏教の近代化 -- 近代グローバル仏教への日本の貢献 / ジュディス・M. スノドグラス ; 堀雅彦 -- オルコット去りし後 / 吉永進一 -- 普通教育と日本仏教の近代化 / 林淳 -- アジアの近代仏教 -- アジアの仏教ナショナリズムの比較分析 / 大谷栄一 -- 日本仏教の近代性と植民地朝鮮 / 諸点淑 -- 魔術化された世俗 / デヴィット・L. マクマハン ; 田中悟.
+=880  07$6650-00$a仏教-歴史.$2jlabsh/4
+=880  07$6650-05$a仏教-歴史.$2jlabsh/4
+=880  1\$6700-06$a末木文美士.
+=880  2\$6710-07$a国際日本文化研究センター.
+=880  \0$6830-08$a国際シンポジウム ;$v41.$x0915-2822
+=CAT  \\$a13812$b40$c20130716$lBLL01$h1515
+=SID  \\$aZ39$bOCLC
+=STA  \\$aSUPPRESSED$bPreliminary Record
+=LAS  \\$a13812$b40$c20130716$lBLL01$h1515
+
