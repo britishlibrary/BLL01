@@ -1,0 +1,27 @@
+=LDR  00981cas a22003257i 4500
+=001  020500269
+=003  Uk
+=005  20220429114243.0
+=006  m\\\\\\\\d\|\\\\\\
+=007  cr\|||||||||||
+=008  191112c\\\\9999\\\\\\\\o\\\\\0\\\a0eng\\
+=FMT  \\$a  SE
+=040  \\$aUk$beng$cUk$erda
+=245  00$aOUP journals full collection e-journal package
+=264  \1$aOxford$bOxford University Press$c[2022]
+=336  \\$atext$2rdacontent
+=337  \\$acomputer$2rdamedia
+=338  \\$aonline resource$2rdacarrier
+=500  0\$aTitle supplied by a cataloguer.
+=945  \\$aOUP Journals - Full collection
+=959  \\$fCurrently received
+=979  \\$aBritish Library$bDSC
+=CAT  \\$a8055$b40$c20220301$lBLL01$h1448
+=CAT  \\$a8055$b40$c20220301$lBLL01$h1524
+=CAT  \\$a8055$b40$c20220429$lBLL01$h1140
+=CAT  \\$a8055$b40$c20220429$lBLL01$h1142
+=EST  \\$a1
+=STA  \\$aSUPPRESSED$bAcquisitions use only
+=UNO  \\$aY
+=LAS  \\$a8055$b40$c20220429$lBLL01$h1142
+
