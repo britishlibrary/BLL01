@@ -1,0 +1,31 @@
+=001  012110645
+=001  012391076
+=001  011101159
+=001  009180685
+=001  009180726
+=856  41$uhttp://www.springerlink.com/openurl.asp?genre=journal&issn=0010-9525$zFull text available from Springer-Verlag LINK: from 01/11/2000 to present
+=856  4\$uhttp://firstsearch.oclc.org/journal=0010-8525;screen=info;ECOIP$zAddress for accessing the journal from an authorized IP address through OCLC FirstSearch Electronic Collections Online. Subscription to online journal required for access to abstracts and full text
+=001  012396323
+=001  011094121
+=001  011101108
+=001  011101167
+=001  011102348
+=001  012396521
+=001  012401981
+=001  011094158
+=001  011101106
+=001  011101540
+=001  011101587
+=001  009225876
+=001  011094171
+=001  007157823
+=001  012409208
+=001  010472274
+=001  012391989
+=001  013271157
+=001  010488347
+=001  009180885
+=001  005502820
+=001  015620940
+=001  013035043
+=001  009542351
